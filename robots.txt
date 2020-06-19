@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://bitomaxsp.github.io/sitemap.xml
